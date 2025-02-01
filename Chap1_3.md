@@ -29,5 +29,9 @@
 - **调试困难**。C语言缺乏内存保护，容易引发指针错误、缓冲区溢出等问题。而Java和Python的内存管理和异常处理机制更为健壮，调试相对容易。
 - **较低的抽象层次**。C语言的编程模型较为底层，虽然灵活但缺乏Java和Python的高层抽象，开发效率较低。Java和Python提供更高层次的抽象和开发工具，适合快速开发和迭代。
 
+#### 5. 关于lint？(书上“问与答”）
+![lint_p1](https://github.com/user-attachments/assets/abb5aa6f-1188-49a5-bfae-49b7b49f53c6)
+![lint_p2](https://github.com/user-attachments/assets/f14dba57-685c-4dc1-8209-49d8a96fc077)
+
 # 第二章
-![image](https://github.com/user-attachments/assets/e088a079-bc7e-4f1b-874d-69885c50b5cb)
+
